@@ -19,7 +19,6 @@ import os
 
 
 
-#print("def1")
 def1=None
 def2=None
 
